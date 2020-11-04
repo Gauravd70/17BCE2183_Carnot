@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="filter_array">
+        <item>State</item>
+        <item>District</item>
+        <item>Market</item>
+        <item>Variety</item>
+        <item>Commodity</item>
+    </array>
+</resources>

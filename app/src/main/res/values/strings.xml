@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">17BCE2183</string>
+    <string name="search">Search</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="variety">Variety</string>
+    <string name="commodity">Commodity</string>
+    <string name="filter">Filter</string>
+    <string name="market">Market</string>
+    <string name="rs">Rs.</string>
+    <string name="add_filter">Add Filter</string>
+
+</resources>
